@@ -1,1 +1,1 @@
-A fork of Step bible for Igify Community
+A fork of JSword, Step bible for Igify Community
